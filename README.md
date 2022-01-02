@@ -6,6 +6,6 @@ Il s’agit d’implémenter un catalogue de trajets (utilisés par exemple pour
 
 # Lancer l'application :
 
-**git clone https://github.com/AlexDum-dev/AppTrajet.git**
+**git clone  https://github.com/AlexDum-dev/AppTrajet.git**
 
 Puis sur un terminal linux : make pour compiler puis ./main pour exécuter.
