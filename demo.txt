@@ -1,0 +1,3 @@
+TS1:Lyon$Bordeaux$Train
+TC2:Lyon$Paris|Lyon$Marseille$Bateau|Marseille$Paris$Avion|
+TS1:Lyon$Paris$Auto
